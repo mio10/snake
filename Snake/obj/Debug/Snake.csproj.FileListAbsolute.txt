@@ -1,0 +1,27 @@
+C:\Users\dns\Google Диск\programming\csharp\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\dns\Google Диск\programming\csharp\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\dns\Google Диск\programming\csharp\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\dns\Google Диск\programming\csharp\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\dns\Google Диск\programming\csharp\Snake\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\dns\Google Диск\programming\csharp\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\dns\Google Диск\programming\csharp\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+C:\Users\dns\Google Диск\programming\csharp\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\dns\Google Диск\programming\csharp\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\dns\Google Диск\useless trash\cs\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\dns\Google Диск\useless trash\cs\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\dns\Google Диск\useless trash\cs\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\dns\Google Диск\useless trash\cs\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\dns\Google Диск\useless trash\cs\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\dns\Google Диск\useless trash\cs\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\dns\Google Диск\useless trash\cs\Snake\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\dns\Google Диск\useless trash\cs\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\dns\Google Диск\useless trash\cs\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+C:\Users\dns\Google Диск\other\cs\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\dns\Google Диск\other\cs\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\dns\Google Диск\other\cs\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\dns\Google Диск\other\cs\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\dns\Google Диск\other\cs\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\dns\Google Диск\other\cs\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\dns\Google Диск\other\cs\Snake\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\dns\Google Диск\other\cs\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\dns\Google Диск\other\cs\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache

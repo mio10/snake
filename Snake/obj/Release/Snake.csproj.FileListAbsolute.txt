@@ -1,0 +1,9 @@
+C:\Users\dns\Google Диск\programming\csharp\Snake\Snake\bin\Release\Snake.exe.config
+C:\Users\dns\Google Диск\programming\csharp\Snake\Snake\bin\Release\Snake.exe
+C:\Users\dns\Google Диск\programming\csharp\Snake\Snake\bin\Release\Snake.pdb
+C:\Users\dns\Google Диск\programming\csharp\Snake\Snake\obj\Release\Snake.Form1.resources
+C:\Users\dns\Google Диск\programming\csharp\Snake\Snake\obj\Release\Snake.Properties.Resources.resources
+C:\Users\dns\Google Диск\programming\csharp\Snake\Snake\obj\Release\Snake.csproj.GenerateResource.Cache
+C:\Users\dns\Google Диск\programming\csharp\Snake\Snake\obj\Release\Snake.exe
+C:\Users\dns\Google Диск\programming\csharp\Snake\Snake\obj\Release\Snake.pdb
+C:\Users\dns\Google Диск\programming\csharp\Snake\Snake\obj\Release\Snake.csprojResolveAssemblyReference.cache
